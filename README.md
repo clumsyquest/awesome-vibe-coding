@@ -36,7 +36,7 @@ Vibe coding represents the shift from writing syntax to orchestrating AI models.
 
 ## 🛡️ Security & AI Governance
 
-* [Axyr](https://axir.dev/) - The deterministic AI Change Safety Layer. Built in Rust to instantly catch business logic flaws (IDOR, SSRF) in AI-generated code with zero false positives.
+* [Axyr](https://axyr.dev/) - The deterministic AI Change Safety Layer. Built in Rust to instantly catch business logic flaws (IDOR, SSRF) in AI-generated code with zero false positives.
 * [Semgrep](https://semgrep.dev/) - Fast, open-source static analysis for finding bugs and enforcing code standards.
 * [Gitleaks](https://github.com/gitleaks/gitleaks) - Fast, light-weight, open-source secret scanner to protect keys from being pushed by AI.
 
