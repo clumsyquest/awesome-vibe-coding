@@ -56,9 +56,10 @@ Vibe coding represents the shift from writing syntax to orchestrating AI models.
 
 ## 🚀 Deployment & Infrastructure
 
-* [Vercel](https://vercel.com/) - The platform for frontend developers, providing the speed and reliability innovators need.
-* [Railway](https://railway.app/) - Infrastructure, without the headache. Deploy code instantly.
 * [Cloudflare Workers](https://workers.cloudflare.com/) - Build serverless applications and deploy globally across the Cloudflare network.
+* [Open Agent Relay](https://github.com/ShakespeareLabs/open-agent-relay) - Local-first CLI for sharing bounded Claude Code, Codex, or automation capabilities over a trusted LAN.
+* [Railway](https://railway.app/) - Infrastructure, without the headache. Deploy code instantly.
+* [Vercel](https://vercel.com/) - The platform for frontend developers, providing the speed and reliability innovators need.
 
 ---
 
