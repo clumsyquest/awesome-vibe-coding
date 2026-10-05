@@ -29,10 +29,11 @@ Vibe coding represents the shift from writing syntax to orchestrating AI models.
 
 ## 🤖 Autonomous Agents & CLI
 
-* [Claude Code](https://code.claude.com/) - Anthropic's terminal-based AI assistant that writes code, runs commands, and interacts with your repo.
 * [Aider](https://aider.chat/) - AI pair programming in your terminal. Works beautifully with Git.
-* [Devin](https://cognition.ai/) - The first autonomous AI software engineer.
+* [Claude Code](https://code.claude.com/) - Anthropic's terminal-based AI assistant that writes code, runs commands, and interacts with your repo.
 * [Cline](https://github.com/cline/cline) - An autonomous coding agent right inside your IDE.
+* [Devin](https://cognition.ai/) - The first autonomous AI software engineer.
+* [YYLO](https://github.com/yylo-dev/yylo) - Command-line orchestrator for coding agents with typed task, validation, merge, and release-readiness boundaries.
 
 ## 🛡️ Security & AI Governance
 
