@@ -59,6 +59,7 @@ Vibe coding represents the shift from writing syntax to orchestrating AI models.
 ## 🚀 Deployment & Infrastructure
 
 * [Cloudflare Workers](https://workers.cloudflare.com/) - Build serverless applications and deploy globally across the Cloudflare network.
+* [deed.page](https://deed.page/) - Publish an agent's HTML page or static site to a public URL with one API call, MCP tool, or curl command. Free tier.
 * [Open Agent Relay](https://github.com/ShakespeareLabs/open-agent-relay) - Local-first CLI for sharing bounded Claude Code, Codex, or automation capabilities over a trusted LAN.
 * [Railway](https://railway.app/) - Infrastructure, without the headache. Deploy code instantly.
 * [Vercel](https://vercel.com/) - The platform for frontend developers, providing the speed and reliability innovators need.
