@@ -41,6 +41,7 @@ Vibe coding represents the shift from writing syntax to orchestrating AI models.
 * [Semgrep](https://semgrep.dev/) - Fast, open-source static analysis for finding bugs and enforcing code standards.
 * [Gitleaks](https://github.com/gitleaks/gitleaks) - Fast, light-weight, open-source secret scanner to protect keys from being pushed by AI.
 * [KeyDrift](https://keydrift.dev) - Scans deployed HTML and JavaScript for exposed secrets while recognizing public browser credentials that should not be treated as leaks.
+* [HOL Guard](https://github.com/hashgraph-online/hol-guard) - Open-source security tooling for supported AI coding agents that checks selected tool actions before execution through harness hooks and MCP proxies.
 
 ## ⚡ Next-Gen Frameworks & BaaS
 
